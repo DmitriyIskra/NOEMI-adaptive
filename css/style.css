@@ -1719,3 +1719,16 @@
 
         /* POPUP */
             /***** @@@@@@ END DESKTOP VERSION @@@@@@*****/
+
+
+            .input-area {
+                height: 200px;
+                margin: 0 100px;
+                border: 2px solid #000;
+            }
+            
+            .map {
+                height: 200px;
+                margin: 0 100px;
+                border: 2px solid #000;
+            }
