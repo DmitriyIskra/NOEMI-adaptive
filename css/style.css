@@ -1728,7 +1728,8 @@
             }
             
             #map {
-                height: 200px;
-                margin: 0 100px;
+                width: 400;
+                height: 400px;
+                margin: 0 100px 300px;
                 border: 2px solid #000;
             }
